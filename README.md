@@ -24,7 +24,7 @@ Divulgar os serviços de freelancer de forma clara, elegante e funcional, com um
 
 ## Preview
 
-![preview](https://via.placeholder.com/900x400?text=Landing+Page+Preview)
+![preview](https://beatrizaraujow.github.io/Projeto-Landing-Page/)
 
 ---
 
