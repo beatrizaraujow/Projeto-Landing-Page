@@ -22,12 +22,6 @@ Divulgar os serviços de freelancer de forma clara, elegante e funcional, com um
 
 ---
 
-## Preview
-
-![preview](https://imgur.com/a/lM5ifDD)
-
----
-
 ## Estrutura de Arquivos
 
 ---
