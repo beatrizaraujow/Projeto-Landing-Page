@@ -1,2 +1,48 @@
-# Projeto-Landing-Page
-Projeto de Landing Page para divulgação de Freelancer
+# Landing Page Freelancer
+
+Uma landing page estática criada para apresentar os serviços de um(a) freelancer nas áreas de desenvolvimento web e design. O foco é destacar habilidades, mostrar o portfólio e facilitar o contato com clientes.
+
+---
+
+## Objetivo
+
+Divulgar os serviços de freelancer de forma clara, elegante e funcional, com uma estética moderna em **azul e branco**.
+
+---
+
+## Funcionalidades
+
+- ✅ Cabeçalho com título e botão de ação
+- ✅ Seção de serviços oferecidos
+- ✅ Portfólio com exemplos de trabalhos
+- ✅ Formulário de contato
+- ✅ Rodapé com redes sociais e telefone
+- ✅ Design responsivo (flexbox)
+- ✅ Estética azul e branca
+
+---
+
+## Preview
+
+![preview](https://via.placeholder.com/900x400?text=Landing+Page+Preview)
+
+---
+
+## Estrutura de Arquivos
+
+---
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Flexbox
+
+---
+
+## Como Visualizar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/beatrizaraujow
+
