@@ -1,6 +1,6 @@
 # Landing Page Freelancer
 
-Uma landing page estática criada para apresentar os serviços de um(a) freelancer nas áreas de desenvolvimento web e design. O foco é destacar habilidades, mostrar o portfólio e facilitar o contato com clientes.
+Uma landing page (Ainda em desenvolvimento) estática criada para apresentar os serviços de um(a) freelancer nas áreas de desenvolvimento web e design. O foco é destacar habilidades, mostrar o portfólio e facilitar o contato com clientes.
 
 ---
 
