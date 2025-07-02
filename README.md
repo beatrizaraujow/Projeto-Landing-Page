@@ -44,5 +44,5 @@ Divulgar os serviços de freelancer de forma clara, elegante e funcional, com um
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/beatrizaraujow
+[git clone https://github.com/beatrizaraujow](https://github.com/beatrizaraujow/Projeto-Landing-Page)
 
